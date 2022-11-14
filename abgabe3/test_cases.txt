@@ -1,0 +1,11 @@
+init
+get-product 389830695X
+get-products House
+get-category-tree
+get-products-by-category-path "Features | Alle SACDs"
+get-top-products 5
+get-similar-cheaper-product 389830695X
+get-trolls 2.2
+add-new-review new-user 389830695X test231 4
+get-offers B00004CWTY
+finish
